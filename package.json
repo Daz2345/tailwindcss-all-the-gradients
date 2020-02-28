@@ -1,12 +1,12 @@
 {
-  "name": "tailwindcss-gradients",
+  "name": "tailwindcss-all-the-gradients",
   "version": "3.0.0",
   "description": "Tailwind CSS plugin to generate gradient background utilities",
-  "author": "Benoît Rouleau <benoit.rouleau@icloud.com>",
+  "author": "Benoît Rouleau <darren.impey@signoi.com>",
   "license": "ISC",
-  "repository": "https://github.com/benface/tailwindcss-gradients.git",
-  "bugs": "https://github.com/benface/tailwindcss-gradients/issues",
-  "homepage": "https://github.com/benface/tailwindcss-gradients",
+  "repository": "https://github.com/daz2345/tailwindcss-all-the-gradients.git",
+  "bugs": "https://github.com/daz2345/tailwindcss-all-the-gradients/issues",
+  "homepage": "https://github.com/daz2345/tailwindcss-all-the-gradients",
   "scripts": {
     "test": "jest",
     "release": "f(){ release-it $1 && github-release-from-changelog ;};f"
